@@ -1,8 +1,10 @@
+
 <?php
+/*
+
 
 //ejemplo que me ha gustado, haber como podemos implementarlo.
 //evidentemente las rutas no coinciden y el nombre de las clases tampoco
-
 
 
 // routes.php
